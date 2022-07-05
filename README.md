@@ -1,5 +1,5 @@
 <h2>&#128218 Inteligência Artificial</h2>
-Projetos e exércicios práticos realizados no cursos de HTML, CSS, JavaScript da <a href="https://www.origamid.com/">Origamid</a>.
+Trabalhos práticos realizados na disciplina de Inteligência Artificial do curso de Sistemas de Informação da Universidade Federal de Lavras.
 
 <h2>&#128100 Desenvolvedor </h2>
    <li><a href="https://github.com/larisnarciso" target="_blank">Larissa Narciso Oliveira</a></li>
