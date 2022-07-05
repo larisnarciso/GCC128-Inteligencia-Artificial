@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>RandomVacuumAgent 4 Places</title>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <style>
+    .floor:hover { cursor: pointer; }
+    .agent-actions { margin-left: auto; margin-right: auto; border-collapse: collapse; }
+    .agent-actions th { padding: 0.5ex; border: 1px solid hsl(240, 10%, 90%); background: hsl(240, 10%, 85%); text-align: center;}
+    .agent-actions td { padding: 0.25ex; border: 1px solid hsl(240, 20%, 80%); text-align: center;}
+    .robot { transition: transform 2.0s;}
+    .floor { fill: white;}
+    .floor.clean { fill: hsl(240, 10%, 90%); transition: fill 2.0s; }
+    .floor.dirty { fill: hsl(87, 32%, 71%);transition: fill 0.1s; }
+    h1,h2,h3 { font-family: system-ui; text-align: center; }
+    h1 { font-size:  1.50rem; }
+    h2 { font-size: 1.15rem; }
+    h3 { font-size: 1.00rem; }
+    body { display:grid; justify-content: center; gap: 0px;}
+  </style>
+</head>
+
+<body>
+  <div class="row">
+    <div class="col-sm-6 col-md-offset-3" id="content">
+      
+      <h1>REO 2 - Agentes RandomVacuumAgent 4 places</h1>
+      <h2>Larissa Narciso Oliveira (201920349)</h2>
+      <h3>Github: </h3>
+
+    <div id="agent-controlled-diagram">
+      <svg width="600" height="600"></svg>
+    </div>
+
+  </div>
+
+  <script type="text/javascript" src="./cleaningRobot.js"></script>
+  <script type="text/javascript" src="./c_cleaningRobot.js"></script>
+
+</body>
+
+</html>
