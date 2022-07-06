@@ -6,7 +6,7 @@ Trabalho prático realizados na disciplina de Inteligência Artificial do curso 
 
 <h2>&#128421 Informações</h2>
 
-<p> Com base no código disponibilizado no (github.com/aimacode), onde foi realizado a clonagem e adaptação para a realização do projeto que consiste em um robô aspirador de pó de quatro lugares, onde ele realiza movimentos para cima, baixo, direita, esquerda e nas diagonais, de forma aleatória, os pisos são “sujados” e o aspirador de pó realiza a limpeza.
-Para realizar o teste do código, deve baixar os 3 arquivos (index.html, c_cleaningRobot.js, cleaningRobot.js) e abrir no browser o arquivo “index.html”.
+<p> Com base no código disponibilizado no (github.com/aimacode), onde foi realizado a clonagem e adaptação para a realização do projeto que consiste em um robô aspirador de pó de quatro lugares, onde ele realiza movimentos para cima, baixo, direita, esquerda e nas diagonais, de forma aleatória, os pisos são “sujados” e o aspirador de pó realiza a limpeza.</p>
+<p>Para realizar o teste do código, deve baixar os 3 arquivos (index.html, c_cleaningRobot.js, cleaningRobot.js) e abrir no browser o arquivo “index.html”.
 </p>
 </table>
